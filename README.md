@@ -8,8 +8,9 @@ Please do not try to use any public cheats with this patch. Almost all of them a
 # Windows Instructions
 
 1. Download [the patch](https://github.com/shiversoftdev/t7patch/releases/tag/Current).
-2. Watch the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394). Read the FAQ for additional info before asking questions. Note that as of update 2.03, you will need to extract **all of the files into a folder**.
-3. If not playing in matchmaking, set a network password to enable the best protection. Note that anyone who wants to play with you needs to have the same network password. If you want to play in normal matchmaking again, clear the network password.
+2. Extract the files into a folder of your choice
+3. Edit your settings in the t7patch.exe.confing file provided (name, friends only, etc). **You can edit these while the game is running too**.
+4. If not playing in matchmaking, set a network password to enable the best protection. Note that anyone who wants to play with you needs to have the same network password. If you want to play in normal matchmaking again, clear the network password.
 
 # Linux/Steamdeck Instructions
 1. Download [the linux zip](https://github.com/shiversoftdev/t7patch/releases/tag/Current) and extract the files into your Black Ops 3 installation folder
